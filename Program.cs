@@ -21,6 +21,7 @@
        {
         Console.WriteLine(character);
         character ++;
+        SByte
        }
     }
        
